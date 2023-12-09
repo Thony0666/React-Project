@@ -1,0 +1,7 @@
+.rech input{
+    font-family: monospace;
+}
+.result{
+    border: 2px solide black;
+    border-radius: 5px;
+}
